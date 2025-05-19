@@ -1,0 +1,5 @@
+streamlit>=1.26.0
+fpdf2>=2.7.8
+pandas
+openpyxl
+plotly==6.0.1
